@@ -81,4 +81,4 @@ Source: [Kaggle — IBM HR Analytics](https://www.kaggle.com/datasets/pavansubha
 
 ---
 
-*Built by Divyam Choudhary · B.Tech CSE 2027, VIT Bhopal*
+*Built by Divyam Choudhary ·*
